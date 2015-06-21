@@ -1,0 +1,13 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+when the file is large, it is difficult to tell the different between files. diff command can help auto check between the files. Some typing error is easy overlook as well. 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+easy to roll back when you broken something. To know how your code develop bit by bit. ???
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+It is clear that auto saved take you less effect to to vc but without commit message, the save is less helpful as you cannot find the point of the saveing. Commit on Git can give you a chance to think what you are doing on the code. 
+
