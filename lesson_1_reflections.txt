@@ -11,3 +11,12 @@ What do you think are the pros and cons of manually choosing when to create a co
 
 It is clear that auto saved take you less effect to to vc but without commit message, the save is less helpful as you cannot find the point of the saveing. Commit on Git can give you a chance to think what you are doing on the code. 
 
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+git have a smart way to track multiple files, it don't save the files if they have no change ont he commit. Google Docs is not for codeing and it don't need to track multiple files. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log to see all commit in revert time order
+git diff to compare diff commit
+
