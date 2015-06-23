@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+initialize a repository creat a .git folder which save all the commit change. After that you can git add and git commit. 
+

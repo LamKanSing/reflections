@@ -25,3 +25,7 @@ testing, testing , testing.....
 How might using version control make you more confident to make changes that could break something?
 
 the git save all your change once you commited. then you can checkout to jump between different commits and change code without breaking anything....
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git for every stuff, form writing to design, html/css to codeing....every funny stuff
